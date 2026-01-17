@@ -1,3 +1,4 @@
 IZMIR036 aktif
 IZMIR_36 pasif
-ANKARA01 aktif
+xANKARA01 aktif
+denetim3
