@@ -1,4 +1,5 @@
-IZMIR036 aktif
-IZMIR_36 pasif
-xANKARA01 aktif
-denetim3
+İZMİR036
+İZMİR035
+ANKARA01
+DENETİM3
+
